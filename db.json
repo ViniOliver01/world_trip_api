@@ -1,0 +1,276 @@
+{
+  "continents": [
+     {
+        "path":"NorthAmerica",
+        "continentname": "América do Norte",
+        "shortDescription": "O continente com maior biodiversidade .",
+        "description": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia (pertencente ao Reino da Dinamarca, com representação no parlamento) e Bermudas (dependência britânica).",
+        "countriesNumber": "3",
+        "languagesNumber": "256",
+        "citiesNumber": "6",
+        "background": "https://images.unsplash.com/photo-1550109161-7262e652bf82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80"
+     },
+     {
+        "path":"SouthAmerica",
+        "continentname": "América do Sul",
+        "shortDescription": "O continente com o deserto mais seco do mundo.",
+        "description": "A América do Sul é um subcontinente que faz parte do continente americano. Apresenta área de 17 milhões de km², com a maior extensão situada no hemisfério sul do planeta Terra. A população sul-americana é de mais de 434 milhões de habitantes, a qual é distribuída por 12 países e um departamento ultramarino francês.",
+        "countriesNumber": "12",
+        "languagesNumber": "456",
+        "citiesNumber": "7",
+        "background": "https://images.unsplash.com/photo-1580619305218-8423a7ef79b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80"
+     },
+     {
+        "path":"Asia",
+        "continentname": "Ásia",
+        "shortDescription": "O continente com maior extensão territorial.",
+        "description": "A Ásia é o maior continente em área terrestre do mundo, estando boa parte do continente localizado no Hemisfério Norte. Além de ser o mais extenso, é também o mais populoso, habitando nele cerca de três quintos da população mundial. A Ásia é multicultural, abrigando diversas culturas, etnias, religiões e tradições.",
+        "countriesNumber": "49",
+        "languagesNumber": "2300",
+        "citiesNumber": "44",
+        "background": "https://images.unsplash.com/photo-1464817739973-0128fe77aaa1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+     },
+     {
+        "path":"Africa",
+        "continentname": "África",
+        "shortDescription": "O continente com mais países.",
+        "description": "continente localizado ao sul da Europa e sudoeste da Ásia, banhado pelo Oceano Atlântico. África é um dos seis continentes do mundo, sendo o terceiro maior em extensão territorial.",
+        "countriesNumber": "54",
+        "languagesNumber": "200",
+        "citiesNumber": "12",
+        "background": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80"
+     },
+     {
+        "path":"Europa",
+        "continentname": "Europa",
+        "shortDescription": "O continente mais antigo.",
+        "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+        "countriesNumber": "50",
+        "languagesNumber": "24",
+        "citiesNumber": "32",
+        "background": "https://images.unsplash.com/photo-1490642914619-7955a3fd483c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1493&q=80"
+     },
+     {
+        "path":"Oceania",
+        "continentname": "Oceania",
+        "shortDescription": "O continente menor e mais novo.",
+        "description": "É um continente formado por 14 países e diversos territórios ultramarinos. Trata-se do menor continente do planeta. Divide-se em quatro regiões: Australásia, Melanésia, Micronésia e Polinésia. Possui 8,5 milhões de km² de área e mais de 42 milhões de habitantes.",
+        "countriesNumber": "14",
+        "languagesNumber": "820",
+        "citiesNumber": "7",
+        "background": "https://images.unsplash.com/photo-1589330273594-fade1ee91647?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+     }
+  ],
+  "cities": [
+     {
+        "continent": "NorthAmerica",
+        "cities": [
+           {
+              "cityname": "Miami",
+              "country": "Estados unidos",
+              "backgroundImg": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1380&q=80",
+              "flagImg": "https://static.significados.com.br/foto/estados-unidos.jpg"
+           },
+           {
+              "cityname": "Las Vegas",
+              "country": "Estados unidos",
+              "backgroundImg": "https://images.unsplash.com/photo-1581351721010-8cf859cb14a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "flagImg": "https://static.significados.com.br/foto/estados-unidos.jpg"
+           },
+           {
+              "cityname": "Vancouver",
+              "country": "Canada",
+              "backgroundImg": "https://images.unsplash.com/photo-1560813962-ff3d8fcf59ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-do-canada-significados-d7.jpg"
+           },
+           {
+              "cityname": "Toronto",
+              "country": "Canada",
+              "backgroundImg": "https://images.unsplash.com/photo-1503206557829-9a9979ad1227?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-do-canada-significados-d7.jpg"
+           },
+           {
+              "cityname": "Cancun",
+              "country": "México",
+              "backgroundImg": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "flagImg": "https://static.significados.com.br/foto/mexico.jpg"
+           }
+        ]
+     },
+     {
+        "continent": "SouthAmerica",
+        "cities": [
+           {
+              "cityname": "Rio de Janeiro",
+              "country": "Brasil",
+              "backgroundImg": "https://images.unsplash.com/photo-1561577553-674ce32847a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "flagImg": "https://static.significados.com.br/foto/brasil-6f.jpg"
+           },
+           {
+              "cityname": "São Paulo",
+              "country": "Brasil",
+              "backgroundImg": "https://viagemeturismo.abril.com.br/wp-content/uploads/2017/12/istock-842960000.jpg",
+              "flagImg": "https://static.significados.com.br/foto/brasil-6f.jpg"
+           },
+           {
+              "cityname": "Lima",
+              "country": "Peru",
+              "backgroundImg": "https://images.unsplash.com/photo-1580530719837-952e0515b69a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-do-peru-cke.jpg"
+           },
+           {
+              "cityname": "Buenos Aires",
+              "country": "Argentina",
+              "backgroundImg": "https://images.unsplash.com/photo-1495317823589-e67efe1524b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "flagImg": "https://static.significados.com.br/foto/argentina.jpg"
+           },
+           {
+              "cityname": "Santiago",
+              "country": "Chile",
+              "backgroundImg": "https://images.unsplash.com/photo-1593985437133-03d5e1435c03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1333&q=80",
+              "flagImg": "https://static.significados.com.br/foto/chile.jpg"
+           }
+        ]
+     },
+     {
+        "continent": "Asia",
+        "cities": [
+           {
+              "cityname": "Bangkok",
+              "country": "Tailândia",
+              "backgroundImg": "https://images.unsplash.com/photo-1531169628939-e84f860fa5d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "flagImg": "https://static.significados.com.br/flags/th.svg"
+           },
+           {
+              "cityname": "Tóquio",
+              "country": "Japão",
+              "backgroundImg": "https://images.unsplash.com/photo-1549693578-a094e577de3f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-do-japao-significados.jpg"
+           },
+           {
+              "cityname": "Hong Kong",
+              "country": "China",
+              "backgroundImg": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80",
+              "flagImg": "https://static.significados.com.br/foto/china.jpg"
+           },
+           {
+              "cityname": "Dubai",
+              "country": "Emirados Árabes",
+              "backgroundImg": "https://images.unsplash.com/flagged/photo-1559717201-fbb671ff56b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-dos-emirados-arabes-cke.jpg"
+           },
+           {
+              "cityname": "Delhi",
+              "country": "Indía",
+              "backgroundImg": "https://images.unsplash.com/photo-1597040663342-45b6af3d91a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-da-india-cke.jpg"
+           }
+        ]
+     },
+     {
+        "continent": "Africa",
+        "cities": [
+           {
+              "cityname": "Cidade do Cabo",
+              "country": "África do Sul",
+              "backgroundImg": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTfd_vOa29DU0mLgNi64CfwgCYXvkGJ_xaSk4rp9TJ6dewMYVoYyQOs7rY-b5d9Qlry",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-africa-do-sul-cke.jpg"
+           },
+           {
+              "cityname": "Maputo",
+              "country": "Moçambique",
+              "backgroundImg": "https://www.flytap.com/-/media/Flytap/new-tap-pages/destinations/africa/mozambique/maputo/destinations-maputo-banner-mobile-1024x553.jpg",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-de-mocambique-cke.jpg"
+           },
+           {
+              "cityname": "Harare",
+              "country": "Zimbábue",
+              "backgroundImg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/b7/17/caption.jpg?w=1200&h=-1&s=1",
+              "flagImg": "https://static.significados.com.br/flags/zw.svg"
+           },
+           {
+              "cityname": "Tinghir",
+              "country": "Marrocos",
+              "backgroundImg": "https://www.segurospromo.com.br/blog/wp-content/uploads/2020/06/cidades-do-marrocos.jpg",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-marrocos-cke.jpg"
+           },
+           {
+              "cityname": "Cairo",
+              "country": "Egito",
+              "backgroundImg": "https://s2.glbimg.com/J1QdIRCk2LzrH0b2WdGaQNa7P9E=/620x300/e.glbimg.com/og/ed/f/original/2019/03/19/800px-great_sphinx_of_giza_foreground_pyramid_of_menkaure_background._cairo_egypt_wikimedia_commons.jpg",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-siria.jpg"
+           }
+        ]
+     },
+     {
+        "continent": "Europa",
+        "cities": [
+           {
+              "cityname": "Londres",
+              "country": "Reino Unido",
+              "backgroundImg": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/290px-Flag_of_the_United_Kingdom.svg.png"
+           },
+           {
+              "cityname": "Paris",
+              "country": "França",
+              "backgroundImg": "https://images.unsplash.com/photo-1508050919630-b135583b29ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+              "flagImg": "https://static.significados.com.br/foto/franca.jpg"
+           },
+           {
+              "cityname": "Roma",
+              "country": "Itália",
+              "backgroundImg": "https://images.unsplash.com/photo-1509024644558-2f56ce76c490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-italia-0-cke.jpg"
+           },
+           {
+              "cityname": "Praga",
+              "country": "República Tcheca",
+              "backgroundImg": "https://images.unsplash.com/photo-1592906209472-a36b1f3782ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "flagImg": "https://static.significados.com.br/flags/cz.svg"
+           },
+           {
+              "cityname": "Amsterdã",
+              "country": "Holanda",
+              "backgroundImg": "https://images.unsplash.com/photo-1612098606612-e9b63793ca22?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "flagImg": "https://static.significados.com.br/foto/holanda.jpg"
+           }
+        ]
+     },
+     {
+        "continent": "Oceania",
+        "cities": [
+           {
+              "cityname": "Camberra",
+              "country": "Austrália",
+              "backgroundImg": "https://rotadocanguru.com.br/wp-content/uploads/2018/03/canberra.jpg",
+              "flagImg": "https://static.significados.com.br/foto/australia.jpg"
+           },
+           {
+              "cityname": "Sydney",
+              "country": "Austrália",
+              "backgroundImg": "https://images.unsplash.com/photo-1616128618694-96e9e896ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1290&q=80",
+              "flagImg": "https://static.significados.com.br/foto/australia.jpg"
+           },
+           {
+              "cityname": "Suva",
+              "country": "Fiji",
+              "backgroundImg": "https://www.onde-e-quando.net/site/images/illustration/suva_664.jpg",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-fiji-cke.jpg"
+           },
+           {
+              "cityname": "Majuro",
+              "country": "Ilhas Marshall",
+              "backgroundImg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/44/8b/f4/boutique-resort-bikendrik.jpg?w=500&h=300&s=1",
+              "flagImg": "https://static.significados.com.br/flags/mh.svg"
+           },
+           {
+              "cityname": "Wellington",
+              "country": "Nova Zelândia",
+              "backgroundImg": "https://www.cp4.com.br/wp-content/uploads/2019/02/6022200781_5c56160023_o.jpg",
+              "flagImg": "https://static.significados.com.br/foto/bandeira-da-nova-zelandia-cke.jpg"
+           }
+        ]
+     }
+  ]
+}

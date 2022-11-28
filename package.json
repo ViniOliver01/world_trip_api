@@ -1,0 +1,12 @@
+{
+  "name": "world_trip_api",
+  "version": "1.0.0",
+  "description": "Api provider for World Trip project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
